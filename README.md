@@ -1,5 +1,3 @@
-  <img align="center" top="500" height="270" width="400" alt="GIF" src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/pic2.gif">
-  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Boujamza+Meriem+🌻)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
