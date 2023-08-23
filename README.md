@@ -1,5 +1,5 @@
-<a target="_blank" align="right">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/pic2.gif">
+<a target="_blank" align="center">
+  <img align="center" top="500" height="270" width="400" alt="GIF" src="https://github.com/MeriemBoujamza/MeriemBoujamza/blob/f9ed43ea181067db7604e90eef77262f4eb194bc/pic2.gif">
   
 </a>
 
