@@ -6,7 +6,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 software engineering student 5A ENSIM @ ENSA || Intern @ Sopra Steria  || Full Stack Web Dev  / mobile dev
+💻 software engineering student 5A ENSIM @ ENSA || Intern @ Morgan Stanley  || Full Stack Web Dev  / mobile dev
 
 
 <hr>
