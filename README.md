@@ -6,7 +6,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 software engineering student 5A ENSIM @ ENSA || Intern @ Morgan Stanley  || Full Stack Web Dev  / mobile dev
+💻 software engineering student at ENSIM @ ENSA || Intern @ Morgan Stanley  || Full Stack Dev  / mobile dev
 
 
 <hr>
@@ -129,7 +129,7 @@
   <a href="https://www.linkedin.com/in/boujamzameriem/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="merry-linkedin" />
   </a>
-  <a href="mailto:boujamzameriem@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="mailto:boujamza.meriem@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="merry-email"/>
   </a>
 </div>
@@ -143,4 +143,4 @@
 
 
 -----
-Last Edited on: 24/08/2023
+Last Edited on: 10/06/2024
