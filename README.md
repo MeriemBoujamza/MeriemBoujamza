@@ -6,7 +6,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 software engineering student at ENSIM @ ENSA || Intern @ Morgan Stanley  || Full Stack Dev  / mobile dev
+
 
 
 <hr>
